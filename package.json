@@ -1,9 +1,9 @@
 {
-  "name": "be.FalesseNoe.first_room_pack",
-  "displayName": "room Noe Falesse",
+  "name": "be.falessenoe.firstroompack",
+  "displayName": "room noe falesse",
   "version": "0.0.1",
   "unity": "2018.1",
-  "description": "this is Noe's room",
+  "description": "this is noe's room",
   "keywords": ["Script","Tool"],
   "category": "Script",
   "dependencies":{}

@@ -1,9 +1,9 @@
 {
-  "name": "be.wostynthomas.room",
-  "displayName": "room of thomas",
+  "name": "be.FalesseNoe.first_room_pack",
+  "displayName": "room Noe Falesse",
   "version": "0.0.1",
   "unity": "2018.1",
-  "description": "this is a room",
+  "description": "this is Noe's room",
   "keywords": ["Script","Tool"],
   "category": "Script",
   "dependencies":{}
